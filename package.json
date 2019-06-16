@@ -9,7 +9,7 @@
   "scripts": {
     "clean": "rimraf tokens",
     "prebuild": "yarn clean",
-    "build": "node ./build-tokens.js"
+    "build-tokens": "node ./build-tokens.js"
   },
   "devDependencies": {
     "google-spreadsheets-theo": "^1.0.4",

@@ -15,16 +15,16 @@
    ```
 
 2. Edit tokens in the spreadsheet
-3. Run `yarn build`
+3. Run `yarn build-tokens`
 
 This should appear:
 
 ```
-yarn build
+yarn build-tokens
 yarn run v1.12.3
 $ yarn clean
 $ rimraf tokens
-$ node ./build.js
+$ node ./build-tokens.js
 ✔ Design tokens written to ./tokens/colors.scss
 ✔ Design tokens written to ./tokens/colors.common.js
 ✔ Design tokens written to ./tokens/colors.android.xml
