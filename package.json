@@ -1,5 +1,5 @@
 {
-  "name": "@kaelig/design-tokens-test",
+  "name": "design-tokens-test",
   "config": {
     "key": "",
     "worksheets": [
@@ -31,7 +31,7 @@
       }
     ]
   },
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Design tokens, managed via Google Spreadsheets, generated using Theo",
   "repository": "https://github.com/kaelig/design-tokens-google-spreadsheets",
   "author": "Kaelig Deloumeau-Prigent",
