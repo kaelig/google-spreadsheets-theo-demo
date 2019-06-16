@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <integer name="SPACING_SMALL" category="spacing">4dp</integer>
+  <integer name="SPACING_MEDIUM" category="spacing">8dp</integer>
+</resources>

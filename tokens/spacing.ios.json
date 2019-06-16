@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "spacingSmall",
+      "value": "4px",
+      "category": "spacing",
+      "type": "number"
+    },
+    {
+      "name": "spacingMedium",
+      "value": "8px",
+      "category": "spacing",
+      "type": "number"
+    }
+  ]
+}

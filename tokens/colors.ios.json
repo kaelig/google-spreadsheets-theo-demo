@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "colorPrimary",
+      "value": "rgb(255, 0, 0)",
+      "category": "background-color",
+      "type": "color",
+      "comment": "Primary color for use on all main actions"
+    },
+    {
+      "name": "colorSecondary",
+      "value": "rgb(255, 0, 255)",
+      "category": "background-color",
+      "type": "color"
+    },
+    {
+      "name": "colorTertiary",
+      "value": "rgb(0, 128, 0)",
+      "category": "background-color",
+      "type": "color"
+    }
+  ]
+}
