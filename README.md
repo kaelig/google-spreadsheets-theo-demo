@@ -10,7 +10,7 @@
 
    ```
    git clone https://github.com/kaelig/google-spreadsheets-theo-demo.git
-   cd design-tokens-google-spreadsheets
+   cd google-spreadsheets-theo-demo
    yarn
    ```
 
