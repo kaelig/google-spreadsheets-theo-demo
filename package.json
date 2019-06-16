@@ -1,0 +1,53 @@
+{
+  "name": "design-tokens",
+  "config": {
+    "key": "",
+    "worksheets": [
+      {
+        "id": 1,
+        "name": "colors"
+      },
+      {
+        "id": 2,
+        "name": "spacing"
+      }
+    ],
+    "formats": [
+      {
+        "transform": "web",
+        "format": "scss"
+      },
+      {
+        "transform": "web",
+        "format": "common.js"
+      },
+      {
+        "transform": "android",
+        "format": "android.xml"
+      },
+      {
+        "transform": "ios",
+        "format": "ios.json"
+      }
+    ]
+  },
+  "version": "1.0.0",
+  "description": "Design tokens, managed via Google Spreadsheets, generated using Theo",
+  "repository": "https://github.com/kaelig/design-tokens-google-spreadsheets",
+  "author": "Kaelig Deloumeau-Prigent",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "theo": "^8.1.3"
+  },
+  "prettier": {
+    "arrowParens": "always",
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": false
+  }
+}
