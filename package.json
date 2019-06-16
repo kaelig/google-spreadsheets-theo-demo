@@ -1,6 +1,6 @@
 {
   "name": "design-tokens-test",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Design tokens, managed via Google Spreadsheets, generated using Theo",
   "repository": "https://github.com/kaelig/google-spreadsheets-theo",
   "author": "Kaelig Deloumeau-Prigent",
