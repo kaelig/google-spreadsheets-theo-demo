@@ -6,16 +6,17 @@
 
 ## Quick start
 
-1. Clone the repository and install the dependencies:
+1. [Create a new repository from `google-spreadsheets-theo-demo`](https://github.com/kaelig/google-spreadsheets-theo-demo/generate) (or click the “Use this template” button on GitHub)
+2. Clone the repository and install the dependencies:
 
    ```
-   git clone https://github.com/kaelig/google-spreadsheets-theo-demo.git
+   git clone https://github.com/<your-github-username>/google-spreadsheets-theo-demo.git
    cd google-spreadsheets-theo-demo
    yarn
    ```
 
-2. Edit tokens in the spreadsheet
-3. Run `yarn build-tokens`
+3. Edit tokens in the spreadsheet
+4. Run `yarn build-tokens`
 
 This should appear:
 
